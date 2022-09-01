@@ -15,8 +15,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -44,6 +42,8 @@ Users should be able to:
 - JavaScript
 
 ### What I learned
+
+I'll update the code to match the solution a little bit more, but for now this is what I have. 
 
 I learned how to use the javascript elements and selectors to pull and push the components when they were clicked. This challenged me and is really helping me understand how HTML, CSS, and Javascript come together. 
 
